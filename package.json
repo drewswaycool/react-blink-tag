@@ -1,8 +1,9 @@
 {
-  "name": "react-blinker",
-  "version": "0.1.0",
-  "private": true,
+  "name": "@drewswaycool/react-blinker",
+  "version": "0.1.2",
+  "private": false,
   "dependencies": {
+    "@emotion/core": "^10.0.9",
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
     "react-scripts": "2.1.8"
@@ -21,5 +22,10 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "src/Blink.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
 }
