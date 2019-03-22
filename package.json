@@ -1,6 +1,6 @@
 {
-  "name": "@drewswaycool/react-blinker",
-  "version": "0.1.2",
+  "name": "react-blink-tag",
+  "version": "0.1.0",
   "private": false,
   "dependencies": {
     "@emotion/core": "^10.0.9",
@@ -23,7 +23,7 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "description": "🚔 a simple react component that resurrects the <blink> tag baby!",
   "main": "src/Blink.js",
   "devDependencies": {},
   "author": "",

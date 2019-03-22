@@ -35,9 +35,9 @@ function Blink(props) {
   }
 
   return (
-    <p css={css`animation: ${blink} ${speed} infinite;`}>
+    <span css={css`animation: ${blink} ${speed} infinite;`}>
     {children}
-    </p>
+    </span>
   )
 }
 
