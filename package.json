@@ -1,6 +1,15 @@
 {
   "name": "react-blink-tag",
-  "version": "0.1.2",
+  "version": "0.1.3",
+  "author": "Drew McMurry",
+  "homepage": "https://github.com/drewswaycool/react-blink-tag",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drewswaycool/react-blink-tag.git"
+  },
+  "bugs": {
+    "url": "https://github.com/drewswaycool/react-blink/issues"
+  },
   "private": false,
   "dependencies": {
     "@emotion/core": "^10.0.9",
@@ -26,6 +35,11 @@
   "description": "🚔 a simple react component that resurrects the <blink> tag baby!",
   "main": "src/Blink.js",
   "devDependencies": {},
-  "author": "",
-  "license": "ISC"
+  "license": "MIT",
+  "keywords": [
+    "blink",
+    "react",
+    "react-blink-tag",
+    "react-component"
+  ]
 }
